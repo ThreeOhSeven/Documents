@@ -7,14 +7,14 @@ Betcha is a custom, social betting application that was built by Team 19 for CS 
 * Design Document
 * Product Backlog
 * Sprint #1
-⋅⋅* Sprint 1 Planning Document
-⋅⋅* Sprint 1 Retro
+  * Sprint 1 Planning Document
+  * Sprint 1 Retro
 * Sprint #2
-⋅⋅* Sprint 2 Planning Document
-⋅⋅* Sprint 2 Retro
+  * Sprint 2 Planning Document
+  * Sprint 2 Retro
 * Sprint #3
-⋅⋅* Sprint 3 Planning Document
-⋅⋅* Sprint 3 Retro
+  * Sprint 3 Planning Document
+  * Sprint 3 Retro
 
 
 ## Authors
