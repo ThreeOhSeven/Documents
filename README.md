@@ -1,4 +1,4 @@
-# Betcha - Frontend
+# Betcha - Documents
 
 Betcha is a custom, social betting application that was built by Team 19 for CS 307 - Software Engineering at Purdue University. The source code can be found in the following repositories: [Frontend](https://github.com/ThreeOhSeven/Frontend) - [Backend](https://github.com/ThreeOhSeven/Backend)
 
